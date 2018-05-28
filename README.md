@@ -3,3 +3,4 @@
 # Dominiks und Dimitris instruction
 # aus der gui
 <BR> Ready for Tomcat deployment 
+Test jenkins trigger
